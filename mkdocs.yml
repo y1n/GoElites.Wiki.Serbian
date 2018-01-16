@@ -1,0 +1,18 @@
+Naziv sajt: GoElites Wiki
+repo_url: https://github.com/y1n/GoElites.Wiki
+pages:
+- Accueil: index.md
+- Principi:
+    - Pravila Zajednice: CommunityPrinciples/CommunityGuidelines.md
+    - Pravila podrške: CommunityPrinciples/SupportGuidelines.md
+- Za početak:
+    - Instalirajte GoElites: GettingStarted/Installation.md
+    - Objašnjene karakteristike: GettingStarted/Features.md
+    - Podržani šampioni: GettingStarted/SupportedChampions.md
+    - FAQ/Pitanje: GettingStarted/FrequentlyAskedQuestions.md
+- Rešavanja problema:
+    - Kako prijaviti problem: Troubleshooting/TroubleshootingReportGuide.md
+    - Podrška sajta: Troubleshooting/WebsiteTroubleshooting.md
+    - Aplikativna podrška: Troubleshooting/ApplicationTroubleshooting.md
+    
+theme: readthedocs
