@@ -1,4 +1,4 @@
-Naziv sajt: GoElites Wiki
+site_name: GoElites Wiki
 repo_url: https://github.com/y1n/GoElites.Wiki
 pages:
 - Accueil: index.md
